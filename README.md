@@ -7,4 +7,4 @@ Horiseon is an SEO company which required refactoring of their front page html a
 Included in the work required were inclusion of accessibility improvements like alt tags in their images and icons. Other improvements were optimization of their css for readability, and optimization of html for improvement of semantics and flow.
 
 ## Link to Deployment
-
+[Horiseon](https://drdano.github.io/Horiseon_Refactor_Challenge1/)
