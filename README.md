@@ -10,4 +10,4 @@ Included in the work required were inclusion of accessibility improvements like 
 [Horiseon Webpage](https://drdano.github.io/Horiseon_Refactor_Challenge1/)
 
 ## Deployment Finished Product Image
-![alt text](?raw=true)
+![alt text](https://github.com/DrDano/Horiseon_Refactor_Challenge1/blob/bdcfadfd7f6be6ab6d010469b7b964e0ae68f180/docs/assets/images/screencapture-drdano-github-io-Horiseon-Refactor-Challenge1-2021-11-05-12_28_25.png?raw=true)
