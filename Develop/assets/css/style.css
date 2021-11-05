@@ -1,22 +1,27 @@
+/* universal selector to remove default formatting */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* sets background color for entire body of page */
+body {
+    background-color: #d9dcd6;
+}
+
+/* sets text color of all nav elements */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* sets font size of all paragraph text */
 p {
     font-size: 16px;
 }
 
-body {
-    background-color: #d9dcd6;
-}
-
+/* all header selectors format navigational bar at the top of page */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -46,6 +51,7 @@ header nav ul li {
     margin-left: 25px;
 }
 
+/* formats first image at top of page */
 .hero {
     height: 800px;
     width: 100%;
@@ -55,6 +61,7 @@ header nav ul li {
     background-position: center;
 }
 
+/* utility selectors */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -65,6 +72,7 @@ header nav ul li {
     margin-left: 25px;
 }
 
+/* content selectors format articles in center of page */
 .content {
     width: 75%;
     display: inline-block;
@@ -89,6 +97,7 @@ header nav ul li {
     font-size: 36px;
 }
 
+/* benefits selectors format informational bar on right side of page with icons */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -116,6 +125,7 @@ header nav ul li {
     max-width: 150px;
 }
 
+/* footer selectors format footer and copyright */
 footer {
     padding: 30px;
     clear: both;
