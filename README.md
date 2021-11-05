@@ -1,2 +1,2 @@
 # Horiseon Refactoring Project
-![alt text](https://github.com/DrDano/Horiseon_Refactor_Challenge1/blob/c769d2a08a41fc8975534f0b29f6ffb8e2d172d0/Develop/assets/images/brand-awareness.png?raw=true)
+![alt text](https://github.com/DrDano/Horiseon_Refactor_Challenge1/blob/b61c917e397d8bb8351bb3a3ff199f3dabf76616/Develop/assets/images/Horiseon.png?raw=true)
